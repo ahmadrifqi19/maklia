@@ -21,12 +21,13 @@ export default function Navbar() {
         {/* Logo MakLia Official */}
         <div className="flex items-center space-x-4">
           <a href="#" className="relative h-10 w-32 sm:w-36 flex-shrink-0">
-            <Image 
-              src="/logo.png" 
-              alt="MakLia Official" 
-              fill
+            <Image
+              src="/logo.png"
+              alt="Logo MakLia"
+              width={150}
+              height={45}
+              className="h-9 w-auto object-contain"
               priority
-              className="object-contain object-left"
             />
           </a>
 

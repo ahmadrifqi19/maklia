@@ -16,6 +16,11 @@ export const metadata: Metadata = {
   title: 'MakLia - Mentor & Konsultan Keuangan Syariah | Ex-Banker 15 Tahun',
   description:
     'Landing page resmi MakLia: Layanan konsultasi keuangan syariah keluarga & UMKM, seminar bebas riba, dan kerja sama co-event.',
+  icons: {
+    icon: '/logo.png',
+    shortcut: '/logo.png',
+    apple: '/logo.png',
+  },
 };
 
 export default function RootLayout({
