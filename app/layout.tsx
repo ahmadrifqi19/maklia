@@ -21,6 +21,23 @@ export const metadata: Metadata = {
     shortcut: '/logo.png',
     apple: '/logo.png',
   },
+  openGraph: {
+    title: 'MakLia - Mentor & Konsultan Keuangan Syariah | Ex-Banker 15 Tahun',
+    description:
+      'Landing page resmi MakLia: Layanan konsultasi keuangan syariah keluarga & UMKM, seminar bebas riba, dan kerja sama co-event.',
+    url: 'https://maklia.my.id',
+    siteName: 'MakLia Syariah',
+    images: [
+      {
+        url: 'https://maklia.my.id/logo.png',
+        width: 800,
+        height: 600,
+        alt: 'Logo MakLia',
+      },
+    ],
+    locale: 'id_ID',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({
