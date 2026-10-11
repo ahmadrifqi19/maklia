@@ -71,7 +71,7 @@ export default function Footer() {
                 
                 {/* TikTok Icon (Warna Emas Gradient) */}
                 <a
-                  href="https://tiktok.com"
+                  href="https://tiktok.com/maklia.official/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex h-11 w-11 items-center justify-center rounded-xl border border-[#B8923F]/30 bg-[#04251b] transition-all duration-300 hover:bg-[#0a4a36] hover:scale-105 shadow-md"
@@ -93,7 +93,7 @@ export default function Footer() {
 
                 {/* Instagram Icon (Warna Emas Gradient) */}
                 <a
-                  href="https://instagram.com"
+                  href="https://instagram.com/maklia.official/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex h-11 w-11 items-center justify-center rounded-xl border border-[#B8923F]/30 bg-[#04251b] transition-all duration-300 hover:bg-[#0a4a36] hover:scale-105 shadow-md"
